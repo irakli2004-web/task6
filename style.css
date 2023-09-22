@@ -1,0 +1,44 @@
+footer {
+    display: flex;
+    justify-content: space-around;
+    background: #8f8c8c   ;
+    margin-bottom: 150px;
+    
+}
+.footer .container {
+    max: width 1180px;px;
+    display: flex;
+    justify-content: space-between  ;
+}
+.social-icons {
+    display: flex;
+}   
+h1 {
+    color:  red;
+    
+}
+image {
+    width: 1180px;
+    height: 287px;
+    top: 360px;
+    left: 130px;
+}
+.box1 {
+    color: red;
+}    
+.box3 {
+    width: 400px;
+}
+.box4 {
+    width: 1000px; 
+    justify-content:center;
+}
+.box5 {
+    width: 800px; 
+}
+.box7 {
+    margin-bottom: 150px;
+}
+.box6 {
+    width: 1200px; 
+}
